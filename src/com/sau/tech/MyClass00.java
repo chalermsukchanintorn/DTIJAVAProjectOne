@@ -1,5 +1,6 @@
 package com.sau.tech;
 
+
 public class MyClass00 {
     //เมธอด main
     public static void main(String[] args) {
@@ -7,3 +8,9 @@ public class MyClass00 {
         System.out.println("Hi, World!");
     }
 }
+
+class Wow{ }
+
+class Woo{ }
+
+
